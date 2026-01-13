@@ -264,7 +264,7 @@ function addNewSong() {
     };
     const newSongObj = {
       music: newAudio.src,
-      songName: "deneme",
+      songName: "Jamie Paige x Peak Divide - Square Up",
       background: "img/sample.jpg",
       album: "img/album-sample.jpg",
     };
