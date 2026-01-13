@@ -5,6 +5,12 @@ const SONG_LIST = [
     album: "img/clarity.jpg",
     background: "img/ocean.jpg",
   },
+  {
+    songName: "Jamie Paige x Peak Divide - Square Up",
+    music: "music/Zedd - Clarity ft. Foxes - ZEDDVEVO (youtube).mp3",
+    album: "img/squareup.png",
+    background: "img/ocean.jpg",
+  },
   
 ];
 let updateTrack;
