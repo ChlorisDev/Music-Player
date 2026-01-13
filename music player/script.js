@@ -265,8 +265,8 @@ function addNewSong() {
     const newSongObj = {
       music: newAudio.src,
       songName: "Jamie Paige x Peak Divide - Square Up",
-      background: "img/sample.jpg",
-      album: "img/album-sample.jpg",
+      background: "img/sky2.jpg",
+      album: "img/squareup.png",
     };
     SONG_LIST.push(newSongObj);
     localStorage.setItem("addedSongs", JSON.stringify(newSongObj));
