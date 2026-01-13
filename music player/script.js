@@ -9,7 +9,7 @@ const SONG_LIST = [
     songName: "Jamie Paige x Peak Divide - Square Up",
     music: "music/YTDown.com_YouTube_SQUARE-UP-jamie-paige-x-peak-divide-feat_Media_0ZVFAkdRMRY_001_1080p.mp3",
     album: "img/squareup.png",
-    background: "img/ocean.jpg",
+    background: "img/rinlen.gif",
   },
   
 ];
@@ -271,7 +271,7 @@ function addNewSong() {
     const newSongObj = {
       music: newAudio.src,
       songName: "Jamie Paige x Peak Divide - Square Up",
-      background: "img/sky2.jpg",
+      background: "img/rinlen.jpg",
       album: "img/squareup.png",
     };
     SONG_LIST.push(newSongObj);
