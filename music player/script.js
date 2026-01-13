@@ -1,52 +1,11 @@
 const SONG_LIST = [
   {
-    songName: "Hydelic - Yours Forever",
-    music: "music/connected.m4a",
+    songName: "Zedd - Clarity",
+    music: "music/Zedd - Clarity ft. Foxes - ZEDDVEVO (youtube).mp3",
     album: "img/forever.jpg",
     background: "img/ocean.jpg",
   },
-  {
-    songName: "SYML - Mr Sandman",
-    music: "music/sandman.m4a",
-    album: "img/mrsandman.jpg",
-    background: "img/sky4.jpg",
-  },
-  {
-    songName: "Brand X Music - Into The Light",
-    music: "music/light.m4a",
-    album: "img/intothelight.jpg",
-    background: "img/sky2.jpg",
-  },
-  {
-    songName: "NF - Hate Myself",
-    music: "music/nf.m4a",
-    album: "img/nf.jpg",
-    background: "img/black4.jpg",
-  },
-  {
-    songName: "Secession Studios - Past in Flames",
-    music: "music/flames.m4a",
-    album: "img/flames.jpg",
-    background: "img/flames2.jpg",
-  },
-  {
-    songName: "Tom Odell - Another Love",
-    music: "music/another.mp3",
-    album: "img/another.jpg",
-    background: "img/love2.jpg",
-  },
-  {
-    songName: "Badfinger - Baby Blue",
-    music: "music/blue.m4a",
-    album: "img/babyblue.jpg",
-    background: "img/blue5.jpg",
-  },
-  {
-    songName: "Eminem - Lose Yourself",
-    music: "music/eminem.m4a",
-    album: "img/eminem-album.jpg",
-    background: "img/lose5.jpg",
-  },
+  
 ];
 let updateTrack;
 let isMixBtnClick,
