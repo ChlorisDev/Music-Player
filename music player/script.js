@@ -2,7 +2,7 @@ const SONG_LIST = [
   {
     songName: "Zedd - Clarity",
     music: "music/Zedd - Clarity ft. Foxes - ZEDDVEVO (youtube).mp3",
-    album: "img/forever.jpg",
+    album: "img/clarity.jpg",
     background: "img/ocean.jpg",
   },
   
