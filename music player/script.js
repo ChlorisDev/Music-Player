@@ -7,7 +7,7 @@ const SONG_LIST = [
   },
   {
     songName: "Jamie Paige x Peak Divide - Square Up",
-    music: "music/Zedd - Clarity ft. Foxes - ZEDDVEVO (youtube).mp3",
+    music: "music/YTDown.com_YouTube_SQUARE-UP-jamie-paige-x-peak-divide-feat_Media_0ZVFAkdRMRY_001_1080p.mp3",
     album: "img/squareup.png",
     background: "img/ocean.jpg",
   },
